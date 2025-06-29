@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/driver-location-consumer/driver-location-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/driver-location-producer/driver-location-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/driver-location-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/driver-location-producer/pom.xml" />
       </list>
     </option>
   </component>
